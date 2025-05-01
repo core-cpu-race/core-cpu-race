@@ -1,5 +1,5 @@
 - 🏎 Hi, I’m @core-cpu-race
-- 🏎  I’m interested in automotive
+- 🏎  I’m interested in racing
 - ⚡ Fun fact: My favourite car is the Ferrari 296 Speciale
 
 <!---
