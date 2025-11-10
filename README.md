@@ -1,6 +1,6 @@
-- 🏎 Hi, I’m @core-cpu-race
-- 🏎  I’m interested in racing
-- ⚡ Fun fact: My favourite car is the Ferrari 296 Speciale
+- Hi, I’m @core-cpu-race
+- I’m interested in racing
+- Working on a game in Base44
 
 <!---
 core-cpu-race/core-cpu-race is a special repository because its `README.md` (this file) appears on your GitHub profile.
